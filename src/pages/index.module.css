@@ -1,0 +1,18 @@
+.heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  background: linear-gradient(135deg, #0d47a1, #1976d2);
+  color: white;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.heroBanner .button {
+  min-width: 180px;
+}
