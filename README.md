@@ -2,7 +2,6 @@
 
 This repository contains the master Syneca documentation portal powered by [Docusaurus](https://docusaurus.io/). The site aggregates multiple documentation spaces—Functional Documentation, Developer, and Channel Partner—under a single, easy-to-navigate experience.
 
-
 ## Getting Started
 
 1. **Install dependencies**
